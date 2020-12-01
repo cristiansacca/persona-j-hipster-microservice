@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.persona"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "personaJHipster",
+    "packageName": "com.persona",
+    "packageFolder": "com/persona",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmRmMjM4MWIxZGZhNTE4NDA1MGJjMmVkY2UyYzFmMTY2ZDgxOTcyYWYyMGU3ZTA4MDEyNzI1NTkxMDFlMzU1YjNlZWUxMWYwODVjNmE5NTQyNzZlNzUwZGQyZmE4ZDQ3NzAyZTAxMDNkOWQ1OTMyODc2NzQ0MTgwODJiN2Y2ZDM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1606783308830,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
